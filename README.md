@@ -1,3 +1,4 @@
 # hand_gesture_recognition
 
-https://github.com/CanKorkut/hand_gesture_recognition/blob/main/demo.gif
+![Hand Gesture Recognition Demo](https://github.com/CanKorkut/hand_gesture_recognition/blob/main/demo.gif)
+
